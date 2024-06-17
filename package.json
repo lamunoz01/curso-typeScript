@@ -17,8 +17,12 @@
     "url": "https://github.com/lamunoz01/curso-typeScript/issues"
   },
   "homepage": "https://github.com/lamunoz01/curso-typeScript#readme",
-  "dependencies": {},
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
+    "@types/lodash": "^4.17.5",
     "typescript": "^5.4.5"
   }
 }
